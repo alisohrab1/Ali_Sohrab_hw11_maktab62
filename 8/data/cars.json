@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "name": "Ferrari enzo",
+    "details": "The Enzo Ferrari[7] (Type F140) is a mid-engine sports car manufactured by Italian automobile manufacturer Ferrari and named after the company's founder, Enzo Ferrari.[5] It was developed in 2002 using Formula One technology, such as a carbon-fibre body, F1-style automated-shift manual transmission, and carbon fibre-reinforced silicon carbide (C/SiC) ceramic composite disc brakes, as well as technologies not allowed in F1, such as active aerodynamics.",
+    "url" : "https://www.ferrari.com/en-EN/auto/enzo-ferrari"
+  },
+  {
+    "id": "2",
+    "name": "Ferrari 488",
+    "details": "The Ferrari 488 (Type F142M) is a mid-engine sports car produced by the Italian automobile manufacturer Ferrari. The car replaced the 458, being the first mid-engine Ferrari to use a turbocharged V8 since the F40.",
+    "url" : "https://www.ferrari.com/en-LS/auto/ferrari-488-pista"
+  },
+  {
+    "id": "3",
+    "name": "Ferrari Laferrai",
+    "details":" LaFerrari, project name F150[4] is a limited production mid-engine Plug-in hybrid sports car built by Italian automotive manufacturer Ferrari.[5] LaFerrari means 'The Ferrari' in Italian and some other Romance languages, in the sense that it is the 'definitive' Ferrari.",
+    "url" : "https://www.ferrari.com/en-EN/auto/laferrari"
+  },
+  {
+    "id": "4",
+    "name": "McLaren F1",
+    "details": "The McLaren F1 is a sports car designed and manufactured by British automobile manufacturer McLaren Cars, and powered by the BMW S70/2 V12 engine. The original concept was conceived by Gordon Murray. Murray was able to convince Ron Dennis to back the project. He engaged Peter Stevens to design the exterior and interior of the car. On 31 March 1998, the XP5 prototype with a modified rev limiter set the Guinness World Record for the world's fastest production car, reaching 240.1 mph (386.4 km/h),[5] surpassing the modified Jaguar XJ220's 217.1 mph (349 km/h) record from 1993.",
+    "url": "https://cars.mclaren.com/en/legacy/mclaren-f1"
+  },
+  {
+    "id": "5",
+    "name": "McLaren 720s",
+    "details": "The McLaren 720S is a sports car designed and manufactured by British automobile manufacturer McLaren Automotive. It is the second all-new car in the McLaren Super Series, replacing the 650S beginning in May 2017.",
+    "url" : "https://cars.mclaren.com/us-en/super-series/720s"
+  },
+  {
+    "id": "6",
+    "name": "McLaren P1",
+    "details": "The McLaren P1 is a limited-production mid-engine plug-in hybrid sports car produced by British automobile manufacturer McLaren Automotive. Debuted at the 2012 Paris Motor Show,[5] sales of the P1 began in the United Kingdom in October 2013 and all 375 units were sold out by November.[6][7] Production ended in early December 2015.[8] The United States accounted for 34% of the units and Europe for 26%",
+    "url": "https://cars.mclaren.com/us-en/legacy/mclaren-p1"
+  }
+  
+]
